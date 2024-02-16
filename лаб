@@ -1,0 +1,2 @@
+# slowhttptest -H -c 3000 -r 3000 -i 50 -l 6000
+–u http://www.test.app.com
